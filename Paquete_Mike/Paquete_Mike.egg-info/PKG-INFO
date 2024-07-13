@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Paquete_Mike
+Version: 0.0.1
+Summary: Paquete de optimizacion, donde encontrara 9 algoritmos de optimizacion y algunas funciones muy usadas en el area
+Author-email: Miguel Alvarez Castillo <ux21ii048@ux.edu.mx>
+Project-URL: Homepage, https://github.com/MiguelMAC9/Paquete_Mike
+Project-URL: Issues, https://github.com/MiguelMAC9/Paquete_Mike
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+[GitHub-flavored Markdown](https://github.com/MiguelMAC9/Paquete_Mike)

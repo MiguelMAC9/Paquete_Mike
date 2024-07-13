@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Paquete_Mike"
+version = "0.0.1"
+authors = [
+  { name="Miguel Alvarez Castillo", email="ux21ii048@ux.edu.mx" },
+]
+description = "Paquete de optimizacion, donde encontrara 9 algoritmos de optimizacion y algunas funciones muy usadas en el area"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/MiguelMAC9/Paquete_Mike"
+Issues = "https://github.com/MiguelMAC9/Paquete_Mike"

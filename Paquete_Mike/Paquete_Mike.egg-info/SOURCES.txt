@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+Paquete_Mike.egg-info/PKG-INFO
+Paquete_Mike.egg-info/SOURCES.txt
+Paquete_Mike.egg-info/dependency_links.txt
+Paquete_Mike.egg-info/top_level.txt
+scr/codigos/Funciones_prueba.py
+scr/codigos/Multivariadas.py
+scr/codigos/Univariable.py
+scr/codigos/__init__.py
